@@ -71,4 +71,5 @@ user_groups:
 ---
 
 周超，男，1989年生，汉族，湖南常宁人，中国地质大学（武汉）副教授，工学博士，硕士研究生导师，德国地球科学中心客座教授。
+
 主持“地大学者”青年优秀人才计划，国家自然科学基金青年基等项目共6项，并作为技术骨干参加了国家重点研发计划课题、国家自然科学基金、省部级重大地质灾害科研专项等十余个项目。出版学术专著1本，获批软件著作权7项，发表学术论文20余篇，其中第一或通讯作者论文14篇，包括ESI高被引论文2篇，F5000精品论文1篇。担任SCI期刊Geomatics, Natural Hazards and Risk 编委，Frontiers in Earth Science等期刊客座编辑，Engineering Geology、Science of the Total Environment、IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing、International Journal of Remote Sensing、Natural Hazards、Measurement、Journal of Mountain Science等SCI期刊审稿人；国际滑坡论坛专题召集人，欧洲地球科学联合会员，中国地质学会会员，中国地理学会会员。
