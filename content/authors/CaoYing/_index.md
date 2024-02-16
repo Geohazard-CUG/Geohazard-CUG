@@ -51,7 +51,7 @@ social:
     link: 
   - icon: google-scholar
     icon_pack: ai
-    link: https:
+    link: 
   - icon: github
     icon_pack: fab
     link: 
