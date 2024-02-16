@@ -1,28 +1,28 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 周 超  副教授
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: 周
+last_name: 超
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 副教授  博士
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: 中国地质大学（武汉）
+    url: 'https://www.cug.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - 滑坡风险智能预警与制图
+  - 多源遥感对地观测
   - Information Retrieval
 
 education:
