@@ -8,7 +8,8 @@ last_name: Wu
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - 吳恩達--
+# - 吳恩達
 
 # Is this the primary user of the site?
 superuser: false
