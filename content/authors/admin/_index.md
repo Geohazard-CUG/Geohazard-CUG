@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 周 超  副教授
+title: 周 超
 
 # Full Name (for SEO)
 first_name: 周
@@ -21,21 +21,19 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - 滑坡风险智能预警与制图
-  - 多源遥感对地观测
-  - Information Retrieval
+  - 地理智能与地质灾害风险制图
+  - 地质灾害遥感识别与协同观测
+  - 地质灾害机理与预测预报
+  - 风险监测预警与管控平台研发
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 博士  地质工程
+      institution: 中国地质大学（武汉）
+      year: 2018/12
+    - course: 学士  遥感科学与技术
+      institution: 中国地质大学（武汉）
+      year: 2013/07
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +42,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'zhouchao_rs@163.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=ftcYmHkAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +70,5 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+周超，男，1989年生，汉族，湖南常宁人，中国地质大学（武汉）副教授，工学博士，硕士研究生导师，德国地球科学中心客座教授。
+主持“地大学者”青年优秀人才计划，国家自然科学基金青年基等项目共6项，并作为技术骨干参加了国家重点研发计划课题、国家自然科学基金、省部级重大地质灾害科研专项等十余个项目。出版学术专著1本，获批软件著作权7项，发表学术论文20余篇，其中第一或通讯作者论文14篇，包括ESI高被引论文2篇，F5000精品论文1篇。担任SCI期刊Geomatics, Natural Hazards and Risk 编委，Frontiers in Earth Science等期刊客座编辑，Engineering Geology、Science of the Total Environment、IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing、International Journal of Remote Sensing、Natural Hazards、Measurement、Journal of Mountain Science等SCI期刊审稿人；国际滑坡论坛专题召集人，欧洲地球科学联合会员，中国地质学会会员，中国地理学会会员。
