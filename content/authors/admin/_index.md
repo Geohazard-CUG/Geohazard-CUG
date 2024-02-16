@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'zhouchao_rs@163.com'
+    link: 'mailto:zhouchao_rs@163.com'
   - icon: twitter
     icon_pack: fab
     link: 
