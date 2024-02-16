@@ -30,10 +30,10 @@ education:
   courses:
     - course: 博士  地质工程
       institution: 中国地质大学（武汉）
-      year: 2018/12
+      year: 2013/09 ~ 2018/12
     - course: 学士  遥感科学与技术
       institution: 中国地质大学（武汉）
-      year: 2013/07
+      year: 2009/09 ~ 2013/07
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
