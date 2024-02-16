@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 副教授  博士
+role: 副教授  硕士生导师  博士
 
 # Organizations/Affiliations
 organizations:
