@@ -8,7 +8,6 @@ sections:
   - block: hero
     content:
       title: |
-        
       image:
         filename: welcome.jpg
       text: |
