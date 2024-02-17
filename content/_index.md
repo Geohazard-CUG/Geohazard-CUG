@@ -8,18 +8,17 @@ sections:
   - block: hero
     content:
       title: |
-        GeoAI-RS 4 Geohazard
-        Research Group
+        地质灾害风险研究团队
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **GeoAI-RS 4 Geohazard Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **地质灾害风险遥感观测与智能预警研究团队** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
   - block: collection
     content:
-      title: Latest News
+      title: 新闻动态
       subtitle:
       text:
       count: 5
