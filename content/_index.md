@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        地质灾害风险研究团队
+        
       image:
         filename: welcome.jpg
       text: |
