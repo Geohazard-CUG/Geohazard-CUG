@@ -22,21 +22,21 @@ organizations:
     url: 'https://www.cug.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: -----------.
 
 interests:
-  - 滑坡灾害机理分析与稳定性评价
-  - 人工智能与地质灾害风险精细化评价
-  - 地质灾害监测与智能预警预报
+  - 基于深度学习的滑坡识别
+  - 基于机器学习的滑坡易发性评价
+  - 基于InSAR技术的地表形变监测与滑坡识别
 
 education:
   courses:
-    - course: 博士  地质工程
+    - course: 硕士  测绘科学与技术专业
       institution: 中国地质大学（武汉）
-      year: 2011/09 ~ 2016/07
-    - course: 学士  地质工程
-      institution: 长安大学
-      year: 2007/09 ~ 2011/07
+      year: 2021/09 ~ 至今
+    - course: 学士  遥感科学与技术专业
+      institution: 成都理工大学
+      year: 2017/09 ~ 2021/07
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:caoying@cug.edu.cn'
+    link: 
   - icon: twitter
     icon_pack: fab
     link: 
@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 教师
+  - 硕士研究生
 ---
 
 万州区乡镇地质灾害风险评价与管理研究，2019.07.01 ~ 2024.07.01，600万元，子课题主持。
