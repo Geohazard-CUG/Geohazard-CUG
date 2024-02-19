@@ -1,5 +1,5 @@
 ---
-title: 《Remote Sensing》专刊
+title: Application of Remote Sensing Approaches in Geohazard Risk专刊
 
 event: 《Remote Sensing》专刊:Application of Remote Sensing Approaches in Geohazard Risk
 event_url: https://www.mdpi.com/journal/remotesensing/special_issues/N216U627PD
