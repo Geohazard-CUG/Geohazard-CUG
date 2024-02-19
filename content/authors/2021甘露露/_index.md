@@ -75,7 +75,3 @@ user_groups:
 2. Lulu Gan, Chao Zhou, Cao Ying. Improving landslide susceptibility modelling by means of optimized non-landslide sampling and heterogeneous ensemble learning methods (BIGS 2023).
 3. 耦合 Smoteenn 和 Tabtransformer 的滑坡易发性预测方法及系统(国家发明专利, 实质审查).
 4. 一种易发性建模的非滑坡样本选取方法及计算机设备(国家发明专利，实质审查).
-
-重庆市地质灾害气象风险预警模型研究，2021/11/10-2022/12/31，180万元，主研。
-
-国家重点研发计划项目，2018YFC0809402，输电线路杆塔基础滑坡风险评估和安全防护技术研究，2018/07-2021/06，465万，主研.
