@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: 招生信息
 date: 2022-10-24
 
 type: landing
