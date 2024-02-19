@@ -14,9 +14,14 @@ event_url: https://www.mdpi.com/journal/remotesensing/special_issues/N216U627PD
 
 summary: Application of Remote Sensing Approaches in Geohazard Risk.
 abstract: '
-Under the influence of global climate change, rapid urban expansion, and drastic human activities, geological hazards, including landslides, debris flow, and subsidence, occur frequently every year around the world. Numerous geological disasters pose a great threat to human life and property safety, especially in less developed regions. Carrying out the risk study of geological disasters is considered as an effective method to reduce the losses.<br>
+<div style="text-align: justify;">
+    Under the influence of global climate change, rapid urban expansion, and drastic human activities, geological hazards, including landslides, debris flow, and subsidence, occur frequently every year around the world. Numerous geological disasters pose a great threat to human life and property safety, especially in less developed regions. Carrying out the risk study of geological disasters is considered as an effective method to reduce the losses.<br>
+</div>
 
-Accurate observation of the geohazard phenomena from initiation to failure is the premise for risk analysis and prediction. Traditional ground-based monitoring techniques can directly observe various phenomena of geological hazards, but the high cost and sparse spatial distribution limit their application on the regional scale and in fine evaluations. In recent years, remote sensing methods, such as radar interferometry, UAVs, LiDAR, etc., have been widely used. These advanced approaches make significant contributions to various steps of geological disaster risk prevention, including detection, monitoring, and early warning.<br>'
+<div style="text-align: justify;">
+   Accurate observation of the geohazard phenomena from initiation to failure is the premise for risk analysis and prediction. Traditional ground-based monitoring techniques can directly observe various phenomena of geological hazards, but the high cost and sparse spatial distribution limit their application on the regional scale and in fine evaluations. In recent years, remote sensing methods, such as radar interferometry, UAVs, LiDAR, etc., have been widely used. These advanced approaches make significant contributions to various steps of geological disaster risk prevention, including detection, monitoring, and early warning.<br>'
+</div>
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
