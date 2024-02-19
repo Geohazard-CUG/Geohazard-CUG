@@ -29,7 +29,7 @@ sections:
       directions: 科教楼八-5楼
       office_hours:
         - '周一至周五：09:00 to 17:00'
-  ---  
+ 
       # appointment_url: 'https://calendly.com'
       # contact_links:
       #  - icon: comments
@@ -70,4 +70,4 @@ sections:
 #       spacing:
 #         padding: ['20px', '0', '20px', '0']
 #       css_class: fullscreen
-# ---
+---
