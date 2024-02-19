@@ -74,6 +74,6 @@ user_groups:
 
 主要研究成果:
 1. 周超, 甘露露, 王悦等. 综合非滑坡样本选取指数与异质集成机器学习的区域滑坡易发性建模(地球信息科学学报, 地大3区);
-2. Lulu Gan, Chao Zhou, Cao Ying. Improving landslide susceptibility modelling by means of optimized non-landslide sampling and heterogeneous ensemble learning methods (BIGS 2023).
+2. Lulu Gan, Chao Zhou, Ying Cao. Improving landslide susceptibility modelling by means of optimized non-landslide sampling and heterogeneous ensemble learning methods (BIGS 2023).
 3. 耦合 Smoteenn 和 Tabtransformer 的滑坡易发性预测方法及系统(国家发明专利, 实质审查).
 4. 一种易发性建模的非滑坡样本选取方法及计算机设备(国家发明专利，实质审查).
