@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.cug.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 主要从事地质灾害风险的遥感监测与时空智能预警研究.
 
 interests:
   - 地理智能与地质灾害风险制图
