@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-    - course: 硕士  地图制图学与地理信息工程
+    - course: 硕士  资源与环境专业
       institution: 中国地质大学（武汉）
       year: 2021/09 ~ 至今
     - course: 学士  地理信息科学专业
