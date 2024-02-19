@@ -1,19 +1,20 @@
+---
 # Display name
-title: 甘露露
+title: 曹 颖
 
 # Full name (for SEO)
-first_name: 甘
-last_name: 露露
+first_name: 曹
+last_name: 颖
 
 # Username (this should match the folder name)
 authors:
-  - 2021甘露露
+  - CaoYing
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 硕士研究生
+role: 副教授  硕士生导师  博士
 
 # Organizations/Affiliations
 organizations:
@@ -24,18 +25,18 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - 基于深度学习的滑坡识别
-  - 基于机器学习的滑坡易发性评价
-  - 基于InSAR技术的地表形变监测与滑坡识别
+  - 滑坡灾害机理分析与稳定性评价
+  - 人工智能与地质灾害风险精细化评价
+  - 地质灾害监测与智能预警预报
 
 education:
   courses:
-    - course: 硕士  测绘科学与技术专业
+    - course: 博士  地质工程
       institution: 中国地质大学（武汉）
-      year: 2021/09 ~ 至今
-    - course: 学士  遥感科学与技术专业
-      institution: 成都理工大学
-      year: 2017/09 ~ 2021/07
+      year: 2011/09 ~ 2016/07
+    - course: 学士  地质工程
+      institution: 长安大学
+      year: 2007/09 ~ 2011/07
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 
+    link: 'mailto:caoying@cug.edu.cn'
   - icon: twitter
     icon_pack: fab
     link: 
@@ -66,11 +67,19 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 硕士研究生
+  - 教师
 ---
 
-参与项目：1. 国家自然科学基金—InSAR技术支持的三峡库区库岸滑坡早期识别与面状变形预测研究，负责三峡库区奉节县，万州区，秭归—巴东段的滑坡空间预测工作。2. 湖北省重点研发项目—特大暴雨下山区重大滑坡致灾机制与风险防范关键技术研究，利用高分辨率光学影像建立滑坡数据集；完成基于深度学习的滑坡自动识别的研究。
-1. 周超, 甘露露, 王悦等. 综合非滑坡样本选取指数与异质集成机器学习的区域滑坡易发性建模(地球信息科学学报, 地大3区);
-2. Lulu Gan, Chao Zhou, Cao Ying. Improving landslide susceptibility modelling by means of optimized non-landslide sampling and heterogeneous ensemble learning methods (BIGS 2023).
-3. 耦合 Smoteenn 和 Tabtransformer 的滑坡易发性预测方法及系统(国家发明专利, 实质审查).
-4. 一种易发性建模的非滑坡样本选取方法及计算机设备(国家发明专利，实质审查).
+万州区乡镇地质灾害风险评价与管理研究，2019.07.01 ~ 2024.07.01，600万元，子课题主持。
+
+三峡库区缓倾角地层滑坡的时空演化机理研究，2019/09-2021/09，3万元，主持。
+
+滑坡涌浪运动模拟测量装置研发，2022/6-2024/6, 3.5万元，主持。
+
+国家自然科学基金青年项目，41702330，堆积层滑坡地表变形裂缝的水力性质及降雨入渗规律研究，2018/01-2020/12，23万元，主持.
+
+万州区重点移民城镇地质安全风险调查评价，2021/12/01-2022/06/30，200万元，子课题主持。
+
+重庆市地质灾害气象风险预警模型研究，2021/11/10-2022/12/31，180万元，主研。
+
+国家重点研发计划项目，2018YFC0809402，输电线路杆塔基础滑坡风险评估和安全防护技术研究，2018/07-2021/06，465万，主研.
