@@ -1,10 +1,10 @@
 ---
-title: 伦敦大学学院(UCL)学术交流
+title: 访问伦敦大学学院(UCL)
 date: 2024-02-06
 image:
   focal_point: 'top'
 ---
 
-2024年2月6日，周超副教授受邀访问了伦敦大学学院，并与Institute for Risk and Disaster Reduction的Bayes Ahmed副教授就后续的研究合作与研究生培养进行了交流讨论。
+受Bayes Ahmed副教授邀请，周超副教授在2月6日访问了伦敦大学学院Institute for Risk and Disaster Reduction，双方围绕当前的研究工作和后续的研究合作与学生培养进行了交流讨论。
 
 <!--more-->
