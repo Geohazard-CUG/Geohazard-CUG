@@ -7,11 +7,14 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: 招生信息
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        2024年招收研究生2-3名
+        学术型：地图学与地理信息系统；  专业型：资源与环境工程（地图制图学与地理信息工程，大地测量学与测量工程，摄影测量与遥感）
+        不迷信出身，看重做人做事的态度！欢迎具有GIS/测绘/遥感/地质工程/计算机等专业背景的学生报考！
+        
+      email: zhouchao_rs@163.com
+     # phone: 888 888 88 88
       address:
         street: 锦程街68号
         city: 武汉
@@ -22,12 +25,11 @@ sections:
       coordinates:
         latitude: '30.462318'
         longitude: '114.613552'
-      directions: 武汉市东湖高新技术开发区锦程街68号科教楼八659
+      directions: 科教楼八5楼
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
-      #contact_links:
+        - 'Monday to Friday 09:00 to 17:00'
+      # appointment_url: 'https://calendly.com'
+      # contact_links:
       #  - icon: comments
       #    icon_pack: fas
       #    name: Discuss on Forum
