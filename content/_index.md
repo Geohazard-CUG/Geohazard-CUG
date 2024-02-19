@@ -60,6 +60,6 @@ sections:
       subtitle:
       text: |
         {{% cta cta_link="./people/" cta_text="课题组成员 →" %}}
-    design:
-      columns: '1'
+  #  design:
+  #    columns: '1'
 ---
