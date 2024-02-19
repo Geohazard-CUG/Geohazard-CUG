@@ -11,11 +11,11 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Principal Investigators
           - 教师
-          - 研究生
+          - 博士研究生
+          - 硕士研究生
           - 本科生
-          - 客座学生
+          - 客座访问
           - 毕业生
       sort_by: Params.last_name
       sort_ascending: true
