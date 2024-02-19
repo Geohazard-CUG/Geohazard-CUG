@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 甘露露
+title: 曹 颖
 
 # Full name (for SEO)
-first_name: 甘
-last_name: 露露
+first_name: 曹
+last_name: 颖
 
 # Username (this should match the folder name)
 authors:
-  - 2021甘露露
+  - CaoYing
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 硕士研究生
+role: 副教授  硕士生导师  博士
 
 # Organizations/Affiliations
 organizations:
@@ -25,18 +25,18 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - 基于深度学习的滑坡识别
-  - 基于InSAR技术的地表形变监测与滑坡识别
+  - 滑坡灾害机理分析与稳定性评价
+  - 人工智能与地质灾害风险精细化评价
   - 地质灾害监测与智能预警预报
 
 education:
   courses:
-    - course: 硕士  地图制图学与地理信息工程
+    - course: 博士  地质工程
       institution: 中国地质大学（武汉）
-      year: 2021/09 至今
-    - course: 学士  遥感科学与技术专业
-      institution: 成都理工大学
-      year: 2017/09 ~ 2021/07
+      year: 2011/09 ~ 2016/07
+    - course: 学士  地质工程
+      institution: 长安大学
+      year: 2007/09 ~ 2011/07
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 
+    link: 'mailto:caoying@cug.edu.cn'
   - icon: twitter
     icon_pack: fab
     link: 
@@ -69,6 +69,7 @@ email: ''
 user_groups:
   - 硕士研究生
 ---
+
 参与项目：1. 国家自然科学基金—InSAR技术支持的三峡库区库岸滑坡早期识别与面状变形预测研究，负责三峡库区奉节县，万州区，秭归—巴东段的滑坡空间预测工作。2. 湖北省重点研发项目—特大暴雨下山区重大滑坡致灾机制与风险防范关键技术研究，利用高分辨率光学影像建立滑坡数据集；完成基于深度学习的滑坡自动识别的研究。
 1. 周超, 甘露露, 王悦等. 综合非滑坡样本选取指数与异质集成机器学习的区域滑坡易发性建模(地球信息科学学报, 地大3区);
 2. Lulu Gan, Chao Zhou, Cao Ying. Improving landslide susceptibility modelling by means of optimized non-landslide sampling and heterogeneous ensemble learning methods (BIGS 2023).
