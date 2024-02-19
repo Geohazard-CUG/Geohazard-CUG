@@ -44,7 +44,7 @@ header:
 # Site footer
 
 footer:
-  copyright:
+#  copyright:
     notice: '© {year} . 中国地质大学（武汉）灾害信息地理研究团队'
 #     license:  {license}
 #       enable: true
