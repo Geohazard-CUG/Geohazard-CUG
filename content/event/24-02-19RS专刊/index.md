@@ -1,6 +1,7 @@
 ---
-title: <h2 style="font-size: 36px;">Application of Remote Sensing Approaches in Geohazard Risk专刊</h2>
-
+# title: <h2 style="font-size: 36px;">Application of Remote Sensing Approaches in Geohazard Risk专刊</h2>
+title: |
+        <h2 style="font-size: 36px;">Application of Remote Sensing Approaches in Geohazard Risk专刊</h2>
 event: 《Remote Sensing》专刊:Application of Remote Sensing Approaches in Geohazard Risk
 event_url: https://www.mdpi.com/journal/remotesensing/special_issues/N216U627PD
 
