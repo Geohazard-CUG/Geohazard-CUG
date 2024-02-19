@@ -40,7 +40,7 @@ tags: []
 featured: false
 
 image:
-  focal_point: 'top'
+  focal_point: Right
 
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
