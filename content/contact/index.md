@@ -16,16 +16,16 @@ sections:
       email: zhouchao_rs@163.com
      # phone: 888 888 88 88
       address:
-        street: 锦程街68号
+        street: 湖北省
         city: 武汉
-        region: 湖北省
+        region: 锦程街68号
         postcode: '430078'
         country: 中国
         country_code: CHN
       coordinates:
         latitude: '30.462318'
         longitude: '114.614752'
-      directions: 科教楼八5楼
+      directions: 科教楼八-5楼
       office_hours:
         - 'Monday to Friday 09:00 to 17:00'
       # appointment_url: 'https://calendly.com'
