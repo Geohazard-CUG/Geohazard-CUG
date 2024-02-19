@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        团队简介
+        <h2 style="font-size: 24px;">团队简介</h2>
       image:
         filename: welcome.jpg
       text: |
