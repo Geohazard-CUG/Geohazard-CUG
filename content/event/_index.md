@@ -1,5 +1,6 @@
 ---
-title: Recent & Upcoming Events
+# title: Recent & Upcoming Events
+title: 学术信息
 
 # Listing view
 view: compact
