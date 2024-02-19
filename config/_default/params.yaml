@@ -72,7 +72,8 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    # url: 'https://github.com/<username>/<repository>'
+    url: 'https://geohazard-cug.github.io/Geohazard-CUG/'
     content_dir: content
     branch: main
   avatar:
