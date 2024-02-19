@@ -4,11 +4,11 @@ title: 2023级：王为淳
 
 # Full name (for SEO)
 first_name: 王
-last_name: 王为淳
+last_name: 为淳
 
 # Username (this should match the folder name)
 authors:
-  - 2021陈玲
+  - 2023王为淳
 
 # Is this the primary user of the site?
 superuser: false
