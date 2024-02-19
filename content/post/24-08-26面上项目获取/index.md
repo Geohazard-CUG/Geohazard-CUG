@@ -1,6 +1,6 @@
 ---
 title: 喜报：获批国家自然科学基金面上项目一项
-date: 2024-08-26
+date: 2023-08-26
 image:
    focal_point: 'top'
 ---
