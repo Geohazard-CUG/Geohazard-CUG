@@ -24,7 +24,7 @@ sections:
         country_code: CHN
       coordinates:
         latitude: '30.462318'
-        longitude: '114.613552'
+        longitude: '114.614752'
       directions: 科教楼八5楼
       office_hours:
         - 'Monday to Friday 09:00 to 17:00'
