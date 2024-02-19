@@ -12,7 +12,7 @@ sections:
         2024年招收研究生2-3名<br>
         学术型：地图学与地理信息系统<br>
         专业型：资源与环境工程(地图制图学与地理信息工程，大地测量学与测量工程，摄影测量与遥感)<br>
-        不迷信出身，看重做人做事的态度！欢迎具有GIS/测绘/遥感/地质工程/计算机等专业背景的学生报考！
+        **不迷信出身，看重做人做事的态度！** 欢迎具有GIS/测绘/遥感/地质工程/计算机等专业背景的学生报考！
         
       email: zhouchao_rs@163.com
      # phone: 888 888 88 88
@@ -28,7 +28,7 @@ sections:
         longitude: '114.614752'
       directions: 科教楼八-5楼
       office_hours:
-        - 'Monday to Friday 09:00 to 17:00'
+        - '周一至周五：09:00 to 17:00'
       # appointment_url: 'https://calendly.com'
       # contact_links:
       #  - icon: comments
