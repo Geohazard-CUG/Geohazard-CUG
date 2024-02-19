@@ -12,7 +12,7 @@ location: 《Remote Sensing》
 #   postcode: '94305'
 #   country: United States
 
-summary: Application of Remote Sensing Approaches in Geohazard Risk.
+summary: 我们在《Remote Sensing》期刊组织了一个专刊，欢迎大家投稿.
 abstract: '
 <div style="text-align: justify;">
     Under the influence of global climate change, rapid urban expansion, and drastic human activities, geological hazards, including landslides, debris flow, and subsidence, occur frequently every year around the world. Numerous geological disasters pose a great threat to human life and property safety, especially in less developed regions. Carrying out the risk study of geological disasters is considered as an effective method to reduce the losses.<br>
