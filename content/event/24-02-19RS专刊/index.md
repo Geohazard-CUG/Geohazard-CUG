@@ -1,5 +1,5 @@
 ---
-title: 专刊:Application of RS in Geohazard Risk
+title: <span style="font-size: 20px;">专刊:Application of RS in Geohazard Risk</span>
 
 event: 《Remote Sensing》专刊:Application of Remote Sensing Approaches in Geohazard Risk
 event_url: https://www.mdpi.com/journal/remotesensing/special_issues/N216U627PD
