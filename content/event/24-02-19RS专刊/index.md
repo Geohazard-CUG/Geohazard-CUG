@@ -19,8 +19,9 @@ abstract: '
 </div>
 
 <div style="text-align: justify;">
-   Accurate observation of the geohazard phenomena from initiation to failure is the premise for risk analysis and prediction. Traditional ground-based monitoring techniques can directly observe various phenomena of geological hazards, but the high cost and sparse spatial distribution limit their application on the regional scale and in fine evaluations. In recent years, remote sensing methods, such as radar interferometry, UAVs, LiDAR, etc., have been widely used. These advanced approaches make significant contributions to various steps of geological disaster risk prevention, including detection, monitoring, and early warning.<br>'
+   Accurate observation of the geohazard phenomena from initiation to failure is the premise for risk analysis and prediction. Traditional ground-based monitoring techniques can directly observe various phenomena of geological hazards, but the high cost and sparse spatial distribution limit their application on the regional scale and in fine evaluations. In recent years, remote sensing methods, such as radar interferometry, UAVs, LiDAR, etc., have been widely used. These advanced approaches make significant contributions to various steps of geological disaster risk prevention, including detection, monitoring, and early warning.<br>
 </div>
+'
 
 
 # Talk start and end times.
