@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 2023级：王为淳
+title: 王为淳
 
 # Full name (for SEO)
 first_name: 王
