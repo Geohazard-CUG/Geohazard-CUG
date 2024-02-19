@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 曹 颖
+title: 甘露露
 
 # Full name (for SEO)
-first_name: 曹
-last_name: 颖
+first_name: 甘
+last_name: 露露
 
 # Username (this should match the folder name)
 authors:
-  - CaoYing
+  - 2021甘露露
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 副教授  硕士生导师  博士
+role: 硕士研究生
 
 # Organizations/Affiliations
 organizations:
