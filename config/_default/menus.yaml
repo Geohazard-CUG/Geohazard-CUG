@@ -22,3 +22,6 @@ main:
   - name: 招生信息
     url: contact
     weight: 60
+  - name: 科研项目
+    url: project
+    weight: 40
