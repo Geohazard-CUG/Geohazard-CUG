@@ -16,7 +16,7 @@ sections:
      
   - block: collection
     content:
-      title: 新闻动态
+      title: 最新动态
       subtitle:
       text:
       count: 5
@@ -58,7 +58,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="课题组成员 →" %}}
+        {{% cta cta_link="./people/" cta_text="团队成员 →" %}}
   #  design:
   #    columns: '1'
 ---
