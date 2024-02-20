@@ -13,12 +13,15 @@ main:
   - name: 学术信息
     url: event
     weight: 30
-  - name: 研究成果
+  - name: 科研项目
     url: publication
     weight: 40
+  - name: 研究成果
+    url: publication
+    weight: 50
   - name: 照片
     url: tour
-    weight: 50
+    weight: 60
   - name: 招生信息
     url: contact
-    weight: 60
+    weight: 70
