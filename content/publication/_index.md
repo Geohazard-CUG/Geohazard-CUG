@@ -21,16 +21,16 @@
 [1] 2020，国家级大学生创新创业训练计划，融合时间序列InSAR技术的三峡库区滑坡灾害气象预警研究. (满梦甜，王瑞琛，宋徐卓)
 
 
------------- **发明专利** ------------ 
+ **发明专利** 
 
 
 
 
------------- **软件著作权** ------------ 
+ **软件著作权**  
 
 
 
------------- **期刊论文** ------------
+ **期刊论文** 
 
 [34] Chao Zhou, Ying Cao, Peres, D.J., Kunlong Yin, Bo Chai. Advancement in quantitative risk analysis of geological disaster in reservoir areas[J]. Frontiers in Earth Science, 2023, 11: 1148194. (SCI，地大三区)
 
