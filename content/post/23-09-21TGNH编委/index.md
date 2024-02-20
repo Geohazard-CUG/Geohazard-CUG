@@ -1,5 +1,5 @@
 ---
-title: 周超老师受邀担任SCI期刊编委
+title: 周超老师受邀担任《Geomatics, Natural Hazards and Risk》编委
 date: 2023-09-21
 image:
   focal_point: 'top'
