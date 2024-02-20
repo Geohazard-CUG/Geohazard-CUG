@@ -1,5 +1,5 @@
 ---
-title: 周超老师受邀担任SCI期刊《Geomatics, Natural Hazards and Risk》编委
+title: 周超老师受邀担任SCI期刊编委
 date: 2023-09-21
 image:
   focal_point: 'top'
@@ -8,7 +8,7 @@ image:
 
 <!--more-->
 <div style="text-align: justify;">
-受美国查普曼大学(Chapman University)Ramesh P. Singh教授邀请，周超老师将担SCI期刊《Geomatics, Natural Hazards and Risk》编委。
+受美国查普曼大学(Chapman University)Ramesh P. Singh教授邀请，周超老师将担SCI期刊《Geomatics, Natural Hazards and Risk》编委。如下为期刊简介。
 <br>
 </div>
 <div style="text-align: justify;">
