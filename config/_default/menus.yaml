@@ -13,9 +13,6 @@ main:
   - name: 学术信息
     url: event
     weight: 30
- # - name: 科研项目
- #   url: project
- #   weight: 40
   - name: 研究成果
     url: publication
     weight: 40
