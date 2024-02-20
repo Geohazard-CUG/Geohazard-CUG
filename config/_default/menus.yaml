@@ -24,4 +24,4 @@ main:
     weight: 60
   - name: 科研项目
     url: project
-    weight: 40
+    weight: 70
