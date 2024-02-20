@@ -14,7 +14,7 @@ main:
     url: event
     weight: 30
   - name: 科研项目
-    url: publication
+    url: project
     weight: 40
   - name: 研究成果
     url: publication
