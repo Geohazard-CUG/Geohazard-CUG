@@ -35,7 +35,8 @@
 
 
 
- **期刊论文** 
+ **期刊论文** </br>
+[34] **Chao Zhou**, Ying Cao, Peres, D.J., Kunlong Yin, Bo Chai.<span style="color:blue;">Advancement in quantitative risk analysis of geological disaster in reservoir areas</span>[J]. Frontiers in Earth Science, 2023, 11: 1148194. (SCI，地大三区)</br>
 
 [34] **Chao Zhou**, Ying Cao, Peres, D.J., Kunlong Yin, Bo Chai. Advancement in quantitative risk analysis of geological disaster in reservoir areas[J]. Frontiers in Earth Science, 2023, 11: 1148194. (SCI，地大三区)
 
