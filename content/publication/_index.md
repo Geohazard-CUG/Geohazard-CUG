@@ -44,7 +44,7 @@
 
 [26] **Chao Zhou**, Ying Cao, Kunlong Yin, Emanuele Intrieri, Filippo Catani, Lixing Wu. <span style="color:blue;">Characteristic comparison of seepage-driven and buoyancy-driven landslides in Three Gorges Reservoir area, China</span>[J]. Engineering Geology, 2022, 301: 106590.(**SCI，地大一区**)
 
-[25] **Chao Zhou**, Ying Cao, Xie Hu, Kunlong Yin*, Yue Wang, Filippo Catani. <span style="color:blue;">Enhanced dynamic landslide hazard mapping using MT-InSAR method in the Three Gorges Reservoir Area</span>. Landslides, 2022：1-13.(**SCI，地大二区**)
+[25] **Chao Zhou**, Ying Cao, Xie Hu, Kunlong Yin*, Yue Wang, Filippo Catani. <span style="color:blue;">Enhanced dynamic landslide hazard mapping using MT-InSAR method in the Three Gorges Reservoir Area</span>. Landslides, 2022：1-13.(**SCI，地大一区**)
 
 [24] Lanbing Yu, **Chao Zhou***, Yang Wang, et al. <span style="color:blue;">Coupling Data-and Knowledge-Driven Methods for Landslide Susceptibility Mapping in Human-Modified Environments: A Case Study from Wanzhou County, Three Gorges Reservoir Area, China</span>[J]. Remote Sensing, 2022, 14(3): 774.(**SCI，地大二区**)
 
