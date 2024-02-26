@@ -1,6 +1,8 @@
 **主持或参与项目**
 
 <p style="text-align:justify;">[14] 2024~2027，国家自然科学基金面上项目，<span style="color:blue; font-weight:bold;">高分辨率SAR影像支持的大型堆积层滑坡三维变形监测与精细化预测建模</span>，主持；</p>
+<p style="text-align:justify;">[13] 2021~2025，湖北省地质局项目，<span style="color:blue; font-weight:bold;">恩施州环清江水布垭库区地质灾害InSAR监测预警</span>，主持；</p>
+<p style="text-align:justify;">[12] 2021~2023，湖北省重点研发计划项目子课题，<span style="color:blue; font-weight:bold;">滑坡灾害早期识别与智能监测预警预报技术</span>，主持；</p>
 
 
 [14] 2024~2027，国家自然科学基金面上项目，**<span style="color:blue;">高分辨率SAR影像支持的大型堆积层滑坡三维变形监测与精细化预测建模</span>**，主持；
