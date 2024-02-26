@@ -46,7 +46,7 @@
 
 [25] **Chao Zhou**, Ying Cao, Xie Hu, Kunlong Yin*, Yue Wang, Filippo Catani. <span style="color:blue;">Enhanced dynamic landslide hazard mapping using MT-InSAR method in the Three Gorges Reservoir Area</span>. Landslides, 2022：1-13.(**SCI，地大二区**)
 
-[24] Lanbing Yu, **Chao Zhou***, Yang Wang, et al. <span style="color:blue;">Coupling Data-and Knowledge-Driven Methods for Landslide Susceptibility Mapping in Human-Modified Environments: A Case Study from Wanzhou County, Three Gorges Reservoir Area, China[J]. Remote Sensing, 2022, 14(3): 774.(**SCI，地大二区**)
+[24] Lanbing Yu, **Chao Zhou***, Yang Wang, et al. <span style="color:blue;">Coupling Data-and Knowledge-Driven Methods for Landslide Susceptibility Mapping in Human-Modified Environments: A Case Study from Wanzhou County, Three Gorges Reservoir Area, China</span>[J]. Remote Sensing, 2022, 14(3): 774.(**SCI，地大二区**)
 
 [23] Shuhao Liu, Kunlong Yin, **Chao Zhou***, Lei Gui, et al. <span style="color:blue;">Susceptibility Assessment for Landslide Initiated along Power Transmission Lines</span>. Remote Sensing, 2021. (**SCI，地大二区**)
 
