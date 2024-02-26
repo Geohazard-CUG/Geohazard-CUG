@@ -1,6 +1,6 @@
 **主持或参与项目**
 
-<p style="text-align:justify;">[14] 2024~2027，国家自然科学基金面上项目，<span style="color:blue; font-weight:bold;">高分辨率SAR影像支持的大型堆积层滑坡三维变形监测与精细化预测建模</span>**</span>，主持；</p>
+<p style="text-align:justify;">[14] 2024~2027，国家自然科学基金面上项目，<span style="color:blue; font-weight:bold;">高分辨率SAR影像支持的大型堆积层滑坡三维变形监测与精细化预测建模</span>，主持；</p>
 
 
 [14] 2024~2027，国家自然科学基金面上项目，**<span style="color:blue;">高分辨率SAR影像支持的大型堆积层滑坡三维变形监测与精细化预测建模</span>**，主持；
