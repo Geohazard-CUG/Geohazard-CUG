@@ -76,15 +76,5 @@ user_groups:
 <div style="text-align: justify;">Remote Sensing of Environment、Engineering Geology、Landslides、Science of the Total Environment、IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing、International Journal of Remote Sensing、Natural Hazards、Measurement、Journal of Mountain Science等30余种期刊审稿人。</div></br>
 <div style="text-align: justify;">国家自然科学基金委通讯评审专家，教育部学位论文评审专家；</div></br>
 <div style="text-align: justify;">SCI期刊Geomatics, Natural Hazards and Risk 编委，地球科学和Journal of Earth Science期刊青年编委，Remote Sensing、Frontiers in Earth Science等期刊客座编辑；</div></br>
-<div style="text-align: justify;">第六届国际滑坡论坛(The Sixth World Landslide Forum)专题召集人；</div></br>
+<div style="text-align: justify;">第六届国际滑坡论坛(The Sixth World Landslide Forum)专题召集人；</div>
 <div style="text-align: justify;">欧洲地球科学联合会员，中国地质学会会员，中国地理学会会员；</div></br>
-
-
-<p style="text-align:justify;">--国家自然科学基金委通讯评审专家，教育部学位论文评审专家；</p>
-<p style="text-align:justify;">--第六届国际滑坡论坛(The Sixth World Landslide Forum)专题召集人；</p>
-<p style="text-align:justify;">--SCI期刊Geomatics, Natural Hazards and Risk 编委，地球科学和Journal of Earth Science期刊青年编委，Remote Sensing、Frontiers in Earth Science等期刊客座编辑；</p>
-<p style="text-align:justify;">--欧洲地球科学联合会员，中国地质学会会员，中国地理学会会员；</p>
-<p style="text-align:justify;">--Remote Sensing of Environment、Engineering Geology、Landslides、Science of the Total Environment、IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing、International Journal of Remote Sensing、Natural Hazards、Measurement、Journal of Mountain Science等30余种期刊审稿人。</p>
-
-
-
