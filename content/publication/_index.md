@@ -28,7 +28,7 @@
 
 [34] **Chao Zhou**, Ying Cao, Peres, D.J., Kunlong Yin, Bo Chai. <span style="color:blue;">Advancement in quantitative risk analysis of geological disaster in reservoir areas</span>. Frontiers in Earth Science, 2023, 11: 1148194. (**SCI，地大三区**)
 
-[33] **周超**,甘露露, 王悦, 等. <span style="color:blue;">综合非滑坡样本选取指数与异质集成机器学习的区域滑坡易发性建模</span>. 地球信息科学, 2023,25(8):1570-1585. (**EI，地大三区**)
+[33] **周超**，甘露露，王悦，等. <span style="color:blue;">综合非滑坡样本选取指数与异质集成机器学习的区域滑坡易发性建模</span>. 地球信息科学, 2023,25(8):1570-1585. (**EI，地大三区**)
 
 [32] 杨延晨，**周超***，施佳湄. <span style="color:blue;">基于卷积神经网络的区域滑坡易发性评价:以三峡库区万州区为例</span>. 测绘通报, 2023, 9. (**本科生一作，地大四区**)
 
