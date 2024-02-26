@@ -24,8 +24,7 @@
 
 
  **期刊论文**</br>
-<p style="text-align: justify;">[34] <span style="font-weight:bold;">Chao Zhou*</span>, Ying Cao, Peres, D.J., Kunlong Yin, Bo Chai. <span style="color:blue;"> Advancement in quantitative risk analysis of geological disaster in reservoir areas</span>[J]. Frontiers in Earth Science, 2023, 11: 1148194. (<span style="font-weight:bold;">SCI，地大三区</span> ) </p>
- 
+ <div style="text-align: justify;">
 [34] **Chao Zhou**, Ying Cao, Peres, D.J., Kunlong Yin, Bo Chai.<span style="color:blue;">Advancement in quantitative risk analysis of geological disaster in reservoir areas</span>[J]. Frontiers in Earth Science, 2023, 11: 1148194. (**SCI，地大三区**)</br>
 
 [34] **Chao Zhou**, Ying Cao, Peres, D.J., Kunlong Yin, Bo Chai. Advancement in quantitative risk analysis of geological disaster in reservoir areas[J]. Frontiers in Earth Science, 2023, 11: 1148194. (SCI，地大三区)
@@ -97,7 +96,7 @@
 [2] **周超**, 殷坤龙, 向章波, 杨背背. 基于GIS的淳安县滑坡易发性定量评价. 安全与环境工程, 2015, 22(1), 45-50. 
 
 [1] Ying Cao, Kunlong Yin, **Chao Zhou**. Comprehensive Assessment on Sanzhouxi Landslide Stability Considering Displacement Monitoring. The Electronic Journal of Geotechnical Engineering, 2013, 18X: 5507-5524. (EI，地大四区)
-
+</div>
 
 
 
