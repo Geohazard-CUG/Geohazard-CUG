@@ -1,3 +1,29 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Wide Text Box</title>
+<style>
+  .wide-text-box {
+    width: 80%;
+    margin: 0 auto; /* 居中对齐 */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+</style>
+</head>
+<body>
+
+<div class="wide-text-box">
+  <p>这是一个宽一些的文字框。您可以在这里放置您的文本内容。</p>
+</div>
+
+</body>
+</html>
+
+
+
 **主持或参与项目**
 
 [14] 2024~2027，国家自然科学基金面上项目，高分辨率SAR影像支持的大型堆积层滑坡三维变形监测与精细化预测建模，主持；
