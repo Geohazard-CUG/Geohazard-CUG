@@ -62,13 +62,13 @@
 
 [17] **周超**, 殷坤龙,曹颖,李远耀. <span style="color:blue;">基于集成学习与径向基神经网络耦合模型的三峡库区滑坡易发性评价研究</span>. 地球科学, 2020,40(6):1875-1876. (**学术精要高PCSI、高被引、高下载论文，EI，地大三区**)
 
-[16] 刘月, 王宁涛, **周超**, 谢家龙,李远耀. <span style="color:blue;">基于ROC曲线与确定性系数法集成模型的三峡库区奉节县滑坡易发性评价</span>. 安全与环境工程, 2020, 27(4), 10.
+[16] 刘月, 王宁涛, **周超**, 谢家龙,李远耀. <span style="color:blue;">基于ROC曲线与确定性系数法集成模型的三峡库区奉节县滑坡易发性评价</span>. 安全与环境工程, 2020, 27(4), 10. (**地大三区**)
 
 [15] Yu Lanbing, Ying Cao, **Chao Zhou***, Yang Wang, Zhitao Huo. <span style="color:blue;">Landslide Susceptibility Mapping Combining Information Gain Ratio and Support Vector Machines: A Case Study from Wushan Segment in the Three Gorges Reservoir Area, China</span>. Applied Science, 2019, 9(22):4756. (**SCI，地大三区**)
 
 [14] **Chao Zhou**, Kunlong Yin, Ying Cao, Bayes Ahmed, Yuanyao Li, Filippo Catani. <span style="color:blue;">Landslide susceptibility modeling applying machine learning methods: a case study from longju in the three gorges reservoir area, China</span>. Computers and Geosciences, 2018, 112, 23-37. (**ESI高被引论文，SCI，地大二区**)
 
-[13] **Chao Zhou**, Kunlong Yin, Ying Cao, Emanuele Intrieri, Bayes Ahmed, Filippo Catani. <span style="color:blue;">Displacement prediction of step-like landslide by applying a novel kernel extreme learning machine method</span>. Landslides, 2018, 15(5):1015-1027. (**SCI，地大二区**)
+[13] **Chao Zhou**, Kunlong Yin, Ying Cao, Emanuele Intrieri, Bayes Ahmed, Filippo Catani. <span style="color:blue;">Displacement prediction of step-like landslide by applying a novel kernel extreme learning machine method</span>. Landslides, 2018, 15(5):1015-1027. (**SCI，地大一区**)
 
 [12] **Chao Zhou**, Kunlong Yin, Ying Cao, Bayes Ahmed, Xiaolin Fu. <span style="color:blue;">A novel method for landslide displacement prediction by integrating advanced computational intelligence algorithms</span>. Scientific Reports, 2018, 8(1). (**SCI，地大二区**)
 
@@ -80,7 +80,7 @@
 
 [8] **Chao Zhou**, Kunlong Yin. <span style="color:blue;">Landslide displacement prediction of WA-SVM coupling model based on chaotic sequence</span>. Electronic Journal of Geotechnical Engineering, 2016,19:2973-2987. (**EI，地大四区**)
 
-[7] Ying Cao, Kunlong Yin, David E. Alexander, **Chao Zhou**. <span style="color:blue;">Using an extreme learning machine to predict the displacement of step-like landslides in relation to controlling factors</span>. Landslides, 2016, 13(4): 725-736. (**SCI，地大分区T2**)
+[7] Ying Cao, Kunlong Yin, David E. Alexander, **Chao Zhou**. <span style="color:blue;">Using an extreme learning machine to predict the displacement of step-like landslides in relation to controlling factors</span>. Landslides, 2016, 13(4): 725-736. (**SCI，地大一区**)
 
 [6] Faming Huang, Kunlong Yin, Tao He, **Chao Zhou**, Jun Zhang. <span style="color:blue;">Influencing factor analysis and displacement prediction in reservoir landslides− a case study of Three Gorges Reservoir (China)</span>. Tehnički vjesnik, 2016, 23(2): 617-626. (**SCI，地大四区**)
 
@@ -91,7 +91,7 @@
 
 [3] **周超**, 殷坤龙, 曹颖, 黄发明. <span style="color:blue;">基于诱发因素响应与支持向量机的阶跃式滑坡位移预测</span>. 岩石力学与工程学报, 2015, 4132-4139. (**EI，地大四区**)
 
-[2] **周超**, 殷坤龙, 向章波, 杨背背. <span style="color:blue;">基于GIS的淳安县滑坡易发性定量评价</span>. 安全与环境工程, 2015, 22(1), 45-50. 
+[2] **周超**, 殷坤龙, 向章波, 杨背背. <span style="color:blue;">基于GIS的淳安县滑坡易发性定量评价</span>. 安全与环境工程, 2015, 22(1), 45-50. (**地大三区**)
 
 [1] Ying Cao, Kunlong Yin, **Chao Zhou**. <span style="color:blue;">Comprehensive Assessment on Sanzhouxi Landslide Stability Considering Displacement Monitoring</span>. The Electronic Journal of Geotechnical Engineering, 2013, 18X: 5507-5524. (**EI，地大四区**)
 
