@@ -72,7 +72,7 @@ user_groups:
 <p style="text-align:justify;">周超，男，1989年生，汉族，湖南常宁人，中国地质大学（武汉）副教授，工学博士，硕士研究生导师，德国地球科学中心客座教授。</p>
 <p style="text-align:justify;">2013年获中国地质大学（武汉）遥感科学与技术学士学位，2015年提前攻博，2016年11月至2018年5月由国家留学基金委选派至意大利佛罗伦萨大学开展博士联合培养（合作导师：<span style="color:blue; font-weight:bold;">Filippo Catani</span>教授），2017年5月至11月在英国利兹大学进行短期访学（合作导师：<span style="color:blue; font-weight:bold;">Andy Hooper</span>教授），2018年12月获中国地质大学（武汉）地质工程博士学位。2018年12月起在中国地质大学（武汉）地理与信息工程学院地理系工作，<span style="color:blue; font-weight:bold;">长期从事地理遥感信息技术与地质灾害风险管控方面的交叉研究工作</span>。</p>
 <p style="text-align:justify;"><span style="color:blue; font-weight:bold;">主持“地大学者”青年优秀人才计划，国家自然科学基金面上项目等项目共10项</span>，并作为技术骨干参加了国家重点研发计划课题、国家自然科学基金、省部级重大地质灾害科研专项等十余个项目。<span style="color:blue; font-weight:bold;">出版学术专著3本，获批软件著作权7项，发表学术论文30余篇，其中第一或通讯作者论文21篇，包括ESI高被引论文2篇，F5000精品论文1篇</span>。</p>
-**学术兼职**
+**学术兼职**</br>
 Remote Sensing of Environment、Engineering Geology、Landslides、Science of the Total Environment、IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing、International Journal of Remote Sensing、Natural Hazards、Measurement、Journal of Mountain Science等30余种期刊审稿人。</br>
 <p style="text-align:justify;">--国家自然科学基金委通讯评审专家，教育部学位论文评审专家；</p>
 <p style="text-align:justify;">--第六届国际滑坡论坛(The Sixth World Landslide Forum)专题召集人；</p>
