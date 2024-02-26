@@ -62,18 +62,17 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - 教师
 ---
-<div style="text-align: justify;">
-   周超，男，1989年生，汉族，湖南常宁人，中国地质大学（武汉）副教授，工学博士，硕士研究生导师，德国地球科学中心客座教授。<br>
-</div>
+<p style="text-align:justify;">周超，男，1989年生，汉族，湖南常宁人，中国地质大学（武汉）副教授，工学博士，硕士研究生导师，德国地球科学中心客座教授。</p>
+<p style="text-align:justify;">2013年获中国地质大学（武汉）遥感科学与技术学士学位，2015年提前攻博，2016年11月至2018年5月由国家留学基金委选派至意大利佛罗伦萨大学开展博士联合培养（合作导师：Filippo Catani教授），2017年5月至11月在英国利兹大学进行短期访学（合作导师：Andy Hooper教授），2018年12月获中国地质大学（武汉）地质工程博士学位。2018年12月起在中国地质大学（武汉）地理与信息工程学院地理系工作，长期从事空间信息技术与地质灾害风险方面的交叉研究工作。</p>
+<p style="text-align:justify;"><span style="color:blue; font-weight:bold;">主持“地大学者”青年优秀人才计划，国家自然科学基金面上项目等项目共10项</span>，并作为技术骨干参加了国家重点研发计划课题、国家自然科学基金、省部级重大地质灾害科研专项等十余个项目。<span style="color:blue; font-weight:bold;">出版学术专著3本，获批软件著作权7项，发表学术论文30余篇，其中第一或通讯作者论文21篇，包括ESI高被引论文2篇，F5000精品论文1篇</span>。</p>
+<p style="text-align:justify;">这是一段文字，<span style="color:blue; font-weight:bold;">中间的一句话为蓝色加粗</span>，其他文本内容在这里。</p>
 
-<div style="text-align: justify;">
-   主持“地大学者”青年优秀人才计划，国家自然科学基金面上项目等项目共10项，并作为技术骨干参加了国家重点研发计划课题、国家自然科学基金、省部级重大地质灾害科研专项等十余个项目。出版学术专著3本，获批软件著作权7项，发表学术论文30余篇，其中第一或通讯作者论文21篇，包括ESI高被引论文2篇，F5000精品论文1篇。担任SCI期刊Geomatics, Natural Hazards and Risk 编委，地球科学和Journal of Earth Science期刊青年编委，Remote Sensing，Frontiers in Earth Science等期刊客座编辑，Engineering Geology、Science of the Total Environment、IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing、International Journal of Remote Sensing、Natural Hazards、Measurement、Journal of Mountain Science等SCI期刊审稿人；国际滑坡论坛专题召集人，欧洲地球科学联合会员，中国地质学会会员，中国地理学会会员。<br>
-</div>
+
 
