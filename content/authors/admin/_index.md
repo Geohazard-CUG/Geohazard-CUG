@@ -74,7 +74,7 @@ user_groups:
 <p style="text-align:justify;"><span style="color:blue; font-weight:bold;">主持“地大学者”青年优秀人才计划，国家自然科学基金面上项目等项目共10项</span>，并作为技术骨干参加了国家重点研发计划课题、国家自然科学基金、省部级重大地质灾害科研专项等十余个项目。<span style="color:blue; font-weight:bold;">出版学术专著3本，获批软件著作权7项，发表学术论文30余篇，其中第一或通讯作者论文21篇，包括ESI高被引论文2篇，F5000精品论文1篇</span>。</p>
 <span style="color:blue; font-weight:bold;">学术兼职</span> </br>
 <div style="text-align: justify;">--国家自然科学基金委通讯评审专家，教育部学位论文评审专家；</div>
-<div style="text-align: justify;">--SCI期刊Geomatics, Natural Hazards and Risk 编委，地球科学和Journal of Earth Science期刊青年编委，Remote Sensing、Frontiers in Earth Science等期刊客座编辑；</div>
+<div style="text-align: justify;">--Geomatics, Natural Hazards and Risk期刊编委，地球科学和Journal of Earth Science期刊青年编委，Remote Sensing、Frontiers in Earth Science等期刊客座编辑；</div>
 <div style="text-align: justify;">--第六届国际滑坡论坛(The Sixth World Landslide Forum)专题召集人；</div>
 <div style="text-align: justify;">--欧洲地球科学联合会员，中国地质学会会员，中国地理学会会员；</div>
-<div style="text-align: justify;">--Remote Sensing of Environment、Engineering Geology、Landslides、Science of the Total Environment、IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing、International Journal of Remote Sensing、Natural Hazards、Measurement、Journal of Mountain Science等30余种期刊审稿人。</div>
+<div style="text-align: justify;">--Remote Sensing of Environment, Engineering Geology, Landslides, Science of the Total Environment, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, International Journal of Remote Sensing, Natural Hazards, Measurement, Journal of Mountain Science等30余种期刊审稿人。</div>
