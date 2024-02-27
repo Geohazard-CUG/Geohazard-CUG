@@ -11,9 +11,9 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - 教师
+          - 团队负责人
           - 博士研究生
-          - 硕士研究生
+          - 团队成员
           - 本科生
           - 客座访问
           - 毕业生
