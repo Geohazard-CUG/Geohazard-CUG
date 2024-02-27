@@ -66,7 +66,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 硕士研究生
+  - 团队成员
 ---
 
 王为淳，中国地质大学(武汉)资源与环境专业地理信息系统方向在读研究生，主要研究方向为地质灾害预警，目前在周超老师课题组学习，主要参与《恩施州环清江水布垭库区地质灾害InSAR预警》项目工作。
