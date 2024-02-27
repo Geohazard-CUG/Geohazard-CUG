@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: 中国地质大学（武汉）灾害信息地理研究团队
+        content: '携手并肩，共同成长!'
         align: right
         background:
           image:
