@@ -67,7 +67,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 教师
+  - 团队成员
 ---
 <p style="text-align:justify;">周超，男，1989年生，汉族，湖南常宁人，中国地质大学（武汉）副教授，工学博士，硕士研究生导师，德国地球科学中心客座教授。</p>
 <p style="text-align:justify;">2013年获中国地质大学（武汉）遥感科学与技术学士学位，2015年提前攻博，2016年11月至2018年5月由国家留学基金委选派至意大利佛罗伦萨大学开展博士联合培养（合作导师：<span style="color:blue; font-weight:bold;">Filippo Catani</span>教授），2017年5月至11月在英国利兹大学进行短期访学（合作导师：<span style="color:blue; font-weight:bold;">Andy Hooper</span>教授），2018年12月获中国地质大学（武汉）地质工程博士学位。2018年12月起在中国地质大学（武汉）地理与信息工程学院地理系工作，<span style="color:blue; font-weight:bold;">长期从事地理遥感信息技术与地质灾害风险管控方面的交叉研究工作</span>。</p>
