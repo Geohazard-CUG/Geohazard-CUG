@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 硕士研究生
+  - 团队成员
 ---
 
 叶明远，中国地质大学（武汉）地图学与地理信息系统方向在读研究生，主要研究方向包括地质灾害预警预报，GIS制图等。
