@@ -69,12 +69,6 @@ highlight_name: true
 user_groups:
   - 团队成员
 ---
-<p style="text-align:justify;">周超，男，1989年生，汉族，湖南常宁人，中国地质大学（武汉）副教授，工学博士，硕士研究生导师，德国地球科学中心客座教授。</p>
-<p style="text-align:justify;">2013年获中国地质大学（武汉）遥感科学与技术学士学位，2015年提前攻博，2016年11月至2018年5月由国家留学基金委选派至意大利佛罗伦萨大学开展博士联合培养（合作导师：<span style="color:blue; font-weight:bold;">Filippo Catani</span>教授），2017年5月至11月在英国利兹大学进行短期访学（合作导师：<span style="color:blue; font-weight:bold;">Andy Hooper</span>教授），2018年12月获中国地质大学（武汉）地质工程博士学位。2018年12月起在中国地质大学（武汉）地理与信息工程学院地理系工作，<span style="color:blue; font-weight:bold;">长期从事地理遥感信息技术与地质灾害风险管控方面的交叉研究工作</span>。</p>
-<p style="text-align:justify;"><span style="color:blue; font-weight:bold;">主持“地大学者”青年优秀人才计划，国家自然科学基金面上项目等项目共10项</span>，并作为技术骨干参加了国家重点研发计划课题、国家自然科学基金、省部级重大地质灾害科研专项等十余个项目。<span style="color:blue; font-weight:bold;">出版学术专著3本，获批软件著作权7项，发表学术论文30余篇，其中第一或通讯作者论文21篇，包括ESI高被引论文2篇，F5000精品论文1篇</span>。</p>
-<span style="color:blue; font-weight:bold;">学术兼职</span> </br>
-<div style="text-align: justify;">-- 国家自然科学基金委通讯评审专家，教育部学位论文评审专家；</div>
-<div style="text-align: justify;">-- Geomatics, Natural Hazards and Risk期刊编委，地球科学和Journal of Earth Science期刊青年编委，Remote Sensing、Frontiers in Earth Science等期刊客座编辑；</div>
-<div style="text-align: justify;">-- 第六届国际滑坡论坛(The Sixth World Landslide Forum)专题召集人；</div>
-<div style="text-align: justify;">-- 欧洲地球科学联合会员，中国地质学会会员，中国地理学会会员；</div>
-<div style="text-align: justify;">-- Remote Sensing of Environment, Engineering Geology, Landslides, Science of the Total Environment, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, International Journal of Remote Sensing, Natural Hazards, Measurement, Journal of Mountain Science等30余种期刊审稿人。</div>
+<p style="text-align:justify;">中国地质大学（武汉）工程学院副教授，工学博士，硕士研究生导师。</p>
+<p style="text-align:justify;">2011年6月获长安大学地质工程专业学士学位，2011年9月开始硕博连读。2014年11月至2015年11月由国家留学基金委选派至英国伦敦大学学院（UCL）开展博士联合培养(合作导师: David Alexander教授)，2016年6月获中国地质大学(武汉)地质工程博士学位。2016年7月起在中国地质大学(武汉)工程学院就职，长期从事地质灾害机理与风险评价方面的研究工作。2023年5月至2024年5月在英国埃克塞特大学访学 (合作导师: Georgie Bennett副教授)。</p>
+<p style="text-align:justify;">主要从事滑坡灾害机理分析与稳定性评价、地质灾害风险精细化评价与管控、斜坡降雨入渗机理和地质灾害物理模型实验研究等。在国内外重要期刊上发表学术论文10余篇。主持国家自然科学基金青年基金项目等5项；参加国家重点研发计划课题、国家自然科学基金、中国地质调查局地调项目以及三峡库区三期地质灾害防治重大科学研究项目等十余项。出版学术专著《浙江省地质灾害“风险智控”理论与实践》，编写教材1部，获批软件著作权4项。担任Frontiers in Earth Science等期刊客座编辑，担任Engineering Geology、Stochastic Environmental Research and Risk Assessment、Remote Sensing、Journal of Earth Science、Natural Hazards等SCI期刊审稿人。</p>
