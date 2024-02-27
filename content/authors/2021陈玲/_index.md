@@ -66,7 +66,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 硕士研究生
+  - 团队成员
 ---
 
 陈玲，中国地质大学（武汉）在读硕士研究生，主要研究方向为地质灾害预测预报。
