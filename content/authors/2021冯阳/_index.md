@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 硕士研究生
+  - 团队成员
 ---
 
 作为技术骨干参与重庆市万州区乡镇地质灾害风险评价项目和三轴仪测试滑带土的力学性质实验项目.
