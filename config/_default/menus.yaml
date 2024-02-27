@@ -7,7 +7,7 @@ main:
   - name: 最新动态
     url: post
     weight: 10
-  - name: 团队成员
+  - name: 研究人员
     url: people
     weight: 20
   - name: 学术信息
