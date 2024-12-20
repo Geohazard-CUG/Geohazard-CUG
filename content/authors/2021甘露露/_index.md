@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 团队成员
+  - 毕业生
 ---
 甘露露，中国地质大学地理与信息工程学院学术型硕士研究生，测绘科学与技术专业，**QQ**:2528718301.
 
