@@ -33,7 +33,7 @@ education:
   courses:
     - course: 硕士  测绘科学与技术专业
       institution: 中国地质大学（武汉）
-      year: 2021/09 ~ 至今
+      year: 2021/09 ~ 2024/07
     - course: 学士  遥感科学与技术专业
       institution: 成都理工大学
       year: 2017/09 ~ 2021/07

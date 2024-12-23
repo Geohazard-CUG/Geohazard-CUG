@@ -33,7 +33,7 @@ education:
   courses:
     - course: 硕士  资源与环境专业
       institution: 中国地质大学（武汉）
-      year: 2021/09 ~ 至今
+      year: 2021/09 ~ 2024/07
     - course: 学士  地理信息科学专业
       institution: 河海大学
       year: 2014/09 ~ 2018/07
