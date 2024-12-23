@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 陈 玲
+title: 刘 芳
 
 # Full name (for SEO)
-first_name: 陈
-last_name: 玲
+first_name: 刘
+last_name: 芳
 
 # Username (this should match the folder name)
 authors:
-  - 2021陈玲
+  - 2024刘芳
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2021级硕士研究生
+role: 2024级硕士研究生
 
 # Organizations/Affiliations
 organizations:
@@ -25,17 +25,17 @@ organizations:
 bio: -----------.
 
 interests:
-  - 地质灾害预测预报
-  - 机器学习算法
+  - 基于深度学习的滑坡识别
+  - 基于InSAR技术和深度学习的滑坡位移预测
 
 education:
   courses:
-    - course: 硕士  地质工程
+    - course: 硕士  资源与环境专业
       institution: 中国地质大学（武汉）
-      year: 2021/09 ~ 2024/07
-    - course: 学士  地质工程
-      institution: 安徽理工大学
-      year: 2017/09 ~ 2021/07
+      year: 2024/09 ~ 至今
+    - course: 学士  地理科学专业
+      institution: 湖南科技大学
+      year: 2019/09 ~ 2023/07
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -66,12 +66,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 毕业生
+  - 团队成员
 ---
 
-陈玲，中国地质大学（武汉）在读硕士研究生，主要研究方向为地质灾害预测预报。
-参与了《万州区重点移民城镇地质安全风险调查评价》项目的野外调查及室内危险性评估工作及《奉节县滑坡灾害调查》野外调查及室内分析工作。撰写发明专利四篇：
-1. 一种区域堆积层厚度预测方法及系统;
-2. 一种耦合时序InSAR技术的水库滑坡类型快速识别方法及系统;
-3. 一种滑坡演化模态变化智能判识方法及系统;
-4. 一种耦合InSAR和深度学习滑坡面状位移预测方法.
+刘芳，中国地质大学地理与信息工程学院专业型硕士研究生，资源与环境专业。
+参与项目：《河南省地质灾害气象风险预警模型》，参与实验方案撰写、滑坡易发性评价与降雨阈值划分等工作。

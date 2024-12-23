@@ -33,7 +33,7 @@ education:
   courses:
     - course: 硕士  地质工程
       institution: 中国地质大学（武汉）
-      year: 2021/09 ~ 至今
+      year: 2021/09 ~ 2024/07
     - course: 学士  土木工程
       institution: 海南大学
       year: 2017/09 ~ 2021/07
