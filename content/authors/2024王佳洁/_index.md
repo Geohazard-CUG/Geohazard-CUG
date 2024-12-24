@@ -29,10 +29,10 @@ interests:
 
 education:
   courses:
-    - course: 硕士  地理学
+    - course: 硕士  地理学专业
       institution: 中国地质大学（武汉）
       year: 2024/09 ~ 至今
-    - course: 学士  地理信息科学
+    - course: 学士  地理信息科学专业
       institution: 集美大学
       year: 2020/09 ~ 2024/07
 
