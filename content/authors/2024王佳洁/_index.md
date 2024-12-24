@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-    - course: 硕士  地理信息系统
+    - course: 硕士  地理学
       institution: 中国地质大学（武汉）
       year: 2024/09 ~ 至今
     - course: 学士  地理信息科学
