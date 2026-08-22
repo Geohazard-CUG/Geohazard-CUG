@@ -66,7 +66,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 团队成员
+  - 转团队
 ---
 
 张青青，中国地质大学地理与信息工程学院专业型硕士研究生，资源与环境专业，主要研究方向为滑坡识别以及滑坡与土地利用，目前在周超老师课题组学习。
