@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 甘露露
+title: 曹颖
 
 # Full name (for SEO)
-first_name: 甘
-last_name: 露露
+first_name: 曹
+last_name: 颖
 
 # Username (this should match the folder name)
 authors:
-  - 2021甘露露
+  - 2025曹颖
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2021级硕士研究生
+role: 2025级硕士研究生
 
 # Organizations/Affiliations
 organizations:
@@ -25,18 +25,18 @@ organizations:
 bio: -----------.
 
 interests:
-  - 基于深度学习的滑坡识别
-  - 基于机器学习的滑坡易发性评价
-  - 基于InSAR技术的地表形变监测与滑坡识别
+  - 基于InSAR技术的形变监测
+  - 基于物理模型反演滑坡厚度
+  - 大模型应用开发
 
 education:
   courses:
-    - course: 硕士  测绘科学与技术专业
+    - course: 硕士  资源与环境专业
       institution: 中国地质大学（武汉）
-      year: 2021/09 ~ 2024/06
-    - course: 学士  遥感科学与技术专业
-      institution: 成都理工大学
-      year: 2017/09 ~ 2021/07
+      year: 2025/09 ~ 2028/06
+    - course: 学士  测绘工程专业
+      institution: 中南林业科技大学
+      year: 2021/09 ~ 2025/07
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -69,12 +69,10 @@ email: ''
 user_groups:
   - 毕业生
 ---
-甘露露，中国地质大学地理与信息工程学院学术型硕士研究生，测绘科学与技术专业，**QQ**:2528718301.
+曹颖，中国地质大学（武汉）地理与信息工程学院专业型研究生，地理信息工程方向，主要研究方向为基于多源InSAR的滑坡三维形变监测与厚度反演研究等，目前在周超老师课题组学习，QQ：2932774095.
 
-参与项目：1. 国家自然科学基金—InSAR技术支持的三峡库区库岸滑坡早期识别与面状变形预测研究，负责三峡库区奉节县，万州区，秭归—巴东段的滑坡空间预测工作。2. 湖北省重点研发项目—特大暴雨下山区重大滑坡致灾机制与风险防范关键技术研究，利用高分辨率光学影像建立滑坡数据集；完成基于深度学习的滑坡自动识别的研究. 
-
-主要研究成果:
-1. 周超, 甘露露, 王悦等. 综合非滑坡样本选取指数与异质集成机器学习的区域滑坡易发性建模(地球信息科学学报, 地大3区);
-2. Lulu Gan, Chao Zhou, Ying Cao. Improving landslide susceptibility modelling by means of optimized non-landslide sampling and heterogeneous ensemble learning methods (BIGS 2023).
-3. 耦合 Smoteenn 和 Tabtransformer 的滑坡易发性预测方法及系统(国家发明专利, 实质审查).
-4. 一种易发性建模的非滑坡样本选取方法及计算机设备(国家发明专利，实质审查).
+参与研究及项目：
+1.基于机器学习的滑坡易发性制图研究；
+2.木里矿区生态环境综合整治成效专项评估项目；
+3.湘西溆浦滑坡倾斜摄影与三维建模研究项目；
+4.恩施州GEP智能核算平台计算引擎模块的设计与开发等；
