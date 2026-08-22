@@ -33,7 +33,7 @@ education:
   courses:
     - course: 硕士  资源与环境专业
       institution: 中国地质大学（武汉）
-      year: 2025/09 ~ 2028/06
+      year: 2025/09 ~ 2028/07
     - course: 学士  测绘工程专业
       institution: 中南林业科技大学
       year: 2021/09 ~ 2025/07
@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 毕业生
+  - 团队成员
 ---
 曹颖，中国地质大学（武汉）地理与信息工程学院专业型研究生，地理信息工程方向，主要研究方向为基于多源InSAR的滑坡三维形变监测与厚度反演研究等，目前在周超老师课题组学习，QQ：2932774095.
 
