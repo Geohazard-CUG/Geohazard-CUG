@@ -33,7 +33,7 @@ education:
   courses:
     - course: 硕士  资源与环境专业
       institution: 中国地质大学（武汉）
-      year: 2025/09 ~ 2028/07
+      year: 2026/09 ~ 2029/07
     - course: 学士  采矿工程专业
       institution: 山东科技大学
       year: 2022/09 ~ 2026/07
