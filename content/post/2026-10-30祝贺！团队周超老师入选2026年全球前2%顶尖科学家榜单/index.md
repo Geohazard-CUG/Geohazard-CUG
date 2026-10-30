@@ -16,4 +16,4 @@ image:
 
 **以下是斯坦福官网查询截图：**
 
-![斯坦福官网查询结果](featured-1.jpg)
+![斯坦福官网查询结果](screenshot.jpg)
